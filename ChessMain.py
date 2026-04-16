@@ -5,7 +5,7 @@ import ChessEngine, AI_player
 WIDTH = HEIGHT = 512
 DIMENSION = 8  # dimension of chess board is 8x8
 SQ_SIZE = HEIGHT // DIMENSION
-MAX_FPS = 15  # for animation later on
+MAX_FPS = 120  # for animation later on
 IMAGES = {}
 
 """
